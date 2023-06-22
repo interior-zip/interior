@@ -11,13 +11,16 @@
     .thirdCont{
         width: 80%;
     }
+
 }
 
 
 @media (max-width: 600px) {
+    
     .navCont{
         width: 100%;
         padding: 0 20px 0 20px;
+        justify-content: space-between;
     }
     .first-cont{
         width: 100%;
@@ -80,7 +83,7 @@
         margin-top: 20px;
     }
     .lastSection span:first-child{
-        font-size: 16px;
+        font-size: 14px;
     }
     
     .lastpagegraphic{
