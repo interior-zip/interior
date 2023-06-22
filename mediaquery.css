@@ -7,14 +7,14 @@
         width: 100%;
     }
     .first-cont > img{
-        width: 500px;
+        width: 400px;
         margin-left: 40px;
     }
     .first-cont > h1 {
         font-size: 24px;
     }
     .firstbtn{
-    margin-top: -30px;
+    margin-top: -20px;
     font-size: 18px;
     padding: 1rem 3rem 1rem 3rem;   
     }
@@ -31,10 +31,22 @@
         margin-right: 0;
         margin-bottom: 25px;
     }
+    .textAreaCont p {
+        font-size: 14px;
+    }
+
+    .textAreaCont2 {
+        width: 20rem;
+    }
+    .textAreaCont2 p {
+        font-size: 14px;
+    }
+
     .thirdCont{
         width: 80%;
-        background-color: fff;
+        background-color: #fff;
         flex-direction: column-reverse;
+        align-content: space-around;
     }
     .thirdCont > img{
         width: 100%;
@@ -63,8 +75,7 @@
     .lastbtn{
      
         font-size: 18px;
-     
-        padding: 1rem 10rem 1rem 10rem;   
+        padding: 1rem 5rem 1rem 5rem;   
     }
 
     /*footer*/
@@ -72,7 +83,7 @@
         flex-direction: column;
         justify-content: flex-start;
         align-items: flex-start;
-        padding: 40px 0 0 40px;
+        padding: 20px 20px 20px 20px;
     }
     .footerLogo img {
         margin-left: -20px;
