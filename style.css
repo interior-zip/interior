@@ -12,12 +12,12 @@ header {
     box-shadow: 1.4px 2.9px 2.9px rgb(0, 0, 0, 0.03);
 }
 .navCont{
+    width: 60%;
     display: flex;
     flex-direction: row;
     justify-content: space-between;
     align-items: center;
     margin: 6px auto;
-    width: 50%;
     padding: 0 20px;
 }
 
@@ -44,7 +44,7 @@ header {
 }
 
 .first-cont{
-    width: 50%;
+    width: 60%;
     margin: 0 auto;
     display: flex;
     flex-direction: column;
@@ -105,7 +105,7 @@ header {
 }
 
 .secondCont{
-    width: 50%;
+    width: 60%;
     display: flex;
     flex-direction: row;
     flex-wrap: wrap;
@@ -135,7 +135,7 @@ header {
 }
 /* third section */
 .thirdCont{
-    width: 50%;
+    width: 60%;
     display: flex;
     flex-direction: row;
     flex-wrap: wrap;
@@ -168,8 +168,7 @@ header {
 
 .cardCont{
     margin: 100px auto;
-    width: 50%;
-    
+    width: 60%;
 }
 
 .cardCont h5{
@@ -178,7 +177,7 @@ header {
 
 .cardCont p{
     margin-top: 30px;
-   line-height: 1.5; 
+    line-height: 1.5; 
 }
 .card{
     border: none;
