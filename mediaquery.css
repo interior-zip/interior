@@ -1,3 +1,22 @@
+@media (max-width: 1400px) {
+    .navCont{
+        width: 80%;
+    }
+    .first-cont{
+        width: 80%;
+    }
+    .secondCont{
+        width: 80%;
+    }
+    .thirdCont{
+        width: 80%;
+    }
+    .cardCont{
+        width: 70%;
+    }
+}
+
+
 @media (max-width: 600px) {
     .navCont{
         width: 100%;
@@ -36,7 +55,7 @@
     }
 
     .textAreaCont2 {
-        width: 20rem;
+        width: 24rem;
     }
     .textAreaCont2 p {
         font-size: 14px;
